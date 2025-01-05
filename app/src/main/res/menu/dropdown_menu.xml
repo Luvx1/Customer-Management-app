@@ -1,0 +1,14 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/option1"
+        android:title="Hide/show Address" />
+    <item
+        android:id="@+id/option2"
+        android:title="Hide/show Age" />
+    <item
+        android:id="@+id/option3"
+        android:title="Hide/show Salary" />
+    <item
+        android:id="@+id/option4"
+        android:title="Play Music" />
+</menu>
